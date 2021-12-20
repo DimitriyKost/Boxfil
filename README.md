@@ -1,8 +1,7 @@
 # Boxfil
-
-![](https://user-images.githubusercontent.com/86842444/146811854-b955062f-1d53-4619-ac2b-777ce00a8cc7.png)
+***
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/86842444/146811854-b955062f-1d53-4619-ac2b-777ce00a8cc7.png" width="400px"</img> 
+    <img src="https://github.com/DimitriyKost/Boxfil/blob/main/2021-11-30_15-05-05.png" width="400px"</img> 
 </div>
 ### 3D Printing Filament Box - Короб для филамента. 
 
